@@ -10,7 +10,7 @@ const Works = () => {
 		<div className="works">
 			<Card
 				icon={faBriefcase}
-				title="Work"
+				title="کارنامه من"
 				body={
 					<div className="works-body">
 						<div className="work">
@@ -19,11 +19,12 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">فیسبوک</div>
 							<div className="work-subtitle">
-								Software Engineer
+								بازاریاب و Sales Marketing
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">از - 1402</div>
+
 						</div>
 
 						<div className="work">
@@ -32,11 +33,11 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">توییتر</div>
 							<div className="work-subtitle">
-								Software Engineer
+								توسعه دهنده میدلول
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">از - 1402</div>
 						</div>
 					</div>
 				}

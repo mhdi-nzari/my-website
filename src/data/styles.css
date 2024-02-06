@@ -1,14 +1,20 @@
 :root {
-	/* ------- colors ------- */
-	--primary-color: #27272a;
-	--secondary-color: #65656d;
-	--tertiary-color: #acacb4;
-	--quaternary-color: #e4e4e7;
-	--link-color: #14b8a6;
-	/* ---------------------- */
+  /* ------- colors ------- */
+  --primary-color: #27272a;
+  --secondary-color: #65656d;
+  --tertiary-color: #acacb4;
+  --quaternary-color: #e4e4e7;
+  --link-color: #14b8a6;
 
-	/* ------- fonts ------- */
-	--primary-font: "dana", sans-serif;
-	--secondary-font: "Roboto", sans-serif;
-	/* --------------------- */
+  --color-instagram1: #f09433;
+  --color-instagram2: #e6683c;
+  --color-instagram3: #dc2743;
+  --color-instagram4: #cc2366;
+  --color-instagram5: #bc1888;
+  /* ---------------------- */
+
+  /* ------- fonts ------- */
+  --primary-font: "dana", sans-serif;
+  --secondary-font: "Roboto", sans-serif;
+  /* --------------------- */
 }

@@ -1,17 +1,17 @@
 const INFO = {
   main: {
-    title: "وبسایت شخصی مهدی نظری<",
+    title: "وبسایت شخصی مهدی نظری",
     name: "مهدی نظری",
     email: "nazari.eng@gmail.com",
     logo: "../logo.png",
   },
 
   socials: {
-    twitter: "https://twitter.com/",
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
-    instagram: "https://instagram.com/",
-    stackoverflow: "https://stackoverflow.com/",
+    linkedin: "https://linkedin.com/in/mhdi-nzari",
+    twitter: "https://twitter.com/mhdi-nzari",
+    github: "https://github.com/mhdi-nzari",
+    instagram: "https://instagram.com/mhdi_nzari",
+    stackoverflow: "https://stackoverflow.com/users/15399720/mahdi-nazari",
     facebook: "https://facebook.com/",
   },
 
@@ -20,8 +20,7 @@ const INFO = {
 
       
     description:
-     "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای "
-  },
+"یه برنامه نویس 22 ساله که همیشه یاد میگیره و زیاد آموزش میبینه ، توی رویدادها و همایش های برنامه نویسی فعاله ، تولید محتوا میکنه و یه کانال به اسم devpodcast داره که تجربیات برنامه نویس های حرفه ای رو با بقیه آدم های اطرافش به اشتراک میزاره "  },
 
   about: {
     title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
@@ -38,53 +37,50 @@ const INFO = {
 
   projects: [
     {
-      title: "Project 1",
+      title: "پروژه فروشگاهی",
       description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+        "پروژه فروشگاهی پیاده سازی شده با جدیدترین تکنولوژی های روز مثل React 18 , Nextjs و امکانات حرفه ای با توجه به نیاز مشتری",
       logo:
         "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-      linkText: "View Project",
-      link: "https://github.com",
+      linkText: "مشاهده پروژه",
+      link: "#",
     },
 
     {
-      title: "Project 2",
+      title: "پروژه فروشگاهی",
       description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-      logo:
-        "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-      linkText: "View Project",
-      link: "https://github.com",
-    },
-
-    {
-      title: "Project 3",
-      description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-      logo:
-        "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-      linkText: "View Project",
-      link: "https://github.com",
-    },
-
-    {
-      title: "Project 4",
-      description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+        "پروژه فروشگاهی پیاده سازی شده با جدیدترین تکنولوژی های روز مثل React 18 , Nextjs و امکانات حرفه ای با توجه به نیاز مشتری",
       logo:
         "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-      linkText: "View Project",
-      link: "https://github.com",
+      linkText: "مشاهده پروژه",
+      link: "#",
     },
-
     {
-      title: "Project 5",
+      title: "پروژه فروشگاهی",
       description:
-        "Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+        "پروژه فروشگاهی پیاده سازی شده با جدیدترین تکنولوژی های روز مثل React 18 , Nextjs و امکانات حرفه ای با توجه به نیاز مشتری",
+      logo:
+        "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/javascript.png",
+      linkText: "مشاهده پروژه",
+      link: "#",
+    },
+    {
+      title: "پروژه فروشگاهی",
+      description:
+        "پروژه فروشگاهی پیاده سازی شده با جدیدترین تکنولوژی های روز مثل React 18 , Nextjs و امکانات حرفه ای با توجه به نیاز مشتری",
       logo:
         "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-      linkText: "View Project",
-      link: "https://github.com",
+      linkText: "مشاهده پروژه",
+      link: "#",
+    },
+    {
+      title: "پروژه فروشگاهی",
+      description:
+        "پروژه فروشگاهی پیاده سازی شده با جدیدترین تکنولوژی های روز مثل React 18 , Nextjs و امکانات حرفه ای با توجه به نیاز مشتری",
+      logo:
+        "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+      linkText: "مشاهده پروژه",
+      link: "#",
     },
   ],
 };

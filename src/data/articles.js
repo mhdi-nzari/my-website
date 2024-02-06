@@ -2,10 +2,10 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "5 دی 1402",
+		title: "کارآموزی و یادگیری فرانت اند",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای ",
 		keywords: [
 			"The Benefits of Cloud Computing",
 			"Tharindu",
@@ -41,20 +41,19 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		date: "5 دی 1402",
+		title: "کارآموزی و یادگیری فرانت اند",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
-		style: ``,
+			"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای ",
 		keywords: [
-			"Artificial Intelligence in Healthcare",
+			"The Benefits of Cloud Computing",
 			"Tharindu",
 			"Tharindu N",
 			"Tharindu Nayanajith",
 		],
 		body: (
 			<React.Fragment>
-				<h1>Content of article 2</h1>
+				<h1>محتوای اولیه</h1>
 			</React.Fragment>
 		),
 	};

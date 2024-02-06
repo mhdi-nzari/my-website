@@ -22,11 +22,11 @@ const Article = (props) => {
 					</div>
 					<div className="homepage-article-link">
 						<Link to={link}>
-							Read article{" "}
 							<FontAwesomeIcon
-								style={{ fontSize: "10px" }}
+								style={{ fontSize: "10px" ,paddingLeft:"10px" }}
 								icon={faChevronRight}
 							/>
+						مطالعه مقاله
 						</Link>
 					</div>
 				</div>
